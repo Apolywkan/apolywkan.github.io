@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.369bf3c0.css",
+    "main.js": "/static/js/main.ec445f1e.js",
+    "static/media/allerguideLogin2.png": "/static/media/allerguideLogin2.3dd69704bd18e99e39f2.png",
+    "static/media/allerguideAllergenSelect2.png": "/static/media/allerguideAllergenSelect2.11d5f8ad5a7989fc018a.png",
+    "static/media/cubecrusher1.png": "/static/media/cubecrusher1.b9446a13795831dab74b.png",
+    "static/media/addmoneymod2.png": "/static/media/addmoneymod2.d25e0542c186f0136c17.png",
+    "static/media/cubecrusher2.png": "/static/media/cubecrusher2.eed0cd5ca5ae9be90c75.png",
+    "static/media/Satoshi-Regular.ttf": "/static/media/Satoshi-Regular.fe762acc7e97cb612805.ttf",
+    "static/media/Satoshi-Bold.ttf": "/static/media/Satoshi-Bold.137a52d9f47dd71c6247.ttf",
+    "static/media/addmoneymod1.png": "/static/media/addmoneymod1.1141a137065a6ed3a024.png",
+    "static/media/leaguedrafter2.png": "/static/media/leaguedrafter2.9b15d1b97cc7de585af0.png",
+    "static/media/allerguideRest.png": "/static/media/allerguideRest.3191ae1a1895a1ca01c6.png",
+    "static/media/github-mark.svg": "/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "index.html": "/index.html",
+    "static/media/arrowDark.svg": "/static/media/arrowDark.d7838e1a906294d4c9d9c8dea9f173cd.svg",
+    "static/media/arrowLight.svg": "/static/media/arrowLight.1290ac74e74b4bc07d83205bd5575511.svg",
+    "static/media/arrowMedium.svg": "/static/media/arrowMedium.be36e834a2963e3ebb810a6703c151b2.svg",
+    "main.369bf3c0.css.map": "/static/css/main.369bf3c0.css.map",
+    "main.ec445f1e.js.map": "/static/js/main.ec445f1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.369bf3c0.css",
+    "static/js/main.ec445f1e.js"
+  ]
+}
