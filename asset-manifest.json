@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.369bf3c0.css",
+    "main.css": "/static/css/main.af78b880.css",
     "main.js": "/static/js/main.ec445f1e.js",
     "static/media/allerguideLogin2.png": "/static/media/allerguideLogin2.3dd69704bd18e99e39f2.png",
     "static/media/allerguideAllergenSelect2.png": "/static/media/allerguideAllergenSelect2.11d5f8ad5a7989fc018a.png",
@@ -17,11 +17,11 @@
     "static/media/arrowDark.svg": "/static/media/arrowDark.d7838e1a906294d4c9d9c8dea9f173cd.svg",
     "static/media/arrowLight.svg": "/static/media/arrowLight.1290ac74e74b4bc07d83205bd5575511.svg",
     "static/media/arrowMedium.svg": "/static/media/arrowMedium.be36e834a2963e3ebb810a6703c151b2.svg",
-    "main.369bf3c0.css.map": "/static/css/main.369bf3c0.css.map",
+    "main.af78b880.css.map": "/static/css/main.af78b880.css.map",
     "main.ec445f1e.js.map": "/static/js/main.ec445f1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.369bf3c0.css",
+    "static/css/main.af78b880.css",
     "static/js/main.ec445f1e.js"
   ]
 }
